@@ -1,0 +1,31 @@
+# Casino Bot Dependencies
+
+# Telegram Bot API
+python-telegram-bot>=20.0
+
+# Async support (included with Python 3.7+)
+# asyncio is built-in
+
+# JSON handling (built-in)
+# json is built-in
+
+# Collections (built-in)
+# collections is built-in
+
+# Datetime (built-in)
+# datetime is built-in
+
+# Regular expressions (built-in)
+# re is built-in
+
+# OS operations (built-in)
+# os is built-in
+
+# Logging (built-in)
+# logging is built-in
+
+# Random (built-in)
+# random is built-in
+
+# String operations (built-in)
+# string is built-in
