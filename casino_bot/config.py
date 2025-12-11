@@ -4,7 +4,7 @@
 import os
 
 # Bot Configuration
-BOT_TOKEN = "8251256866:AAFMgG9Csq-7avh7IaTJeK61G3CN3c21v1Y"
+BOT_TOKEN = "8059137164:AAFfKWkV7-lnGnn397feV-uZ736ZIKvNl5Y"
 if not BOT_TOKEN:
     raise ValueError("BOT_TOKEN environment variable is required")
 
