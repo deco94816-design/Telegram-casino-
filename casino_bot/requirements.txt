@@ -1,0 +1,4 @@
+# Casino Bot Dependencies
+# Python 3.9+ required
+
+python-telegram-bot>=20.0
